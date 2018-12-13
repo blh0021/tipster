@@ -11,5 +11,5 @@
 	<icon src="icon512.png" />
 	<access origin="*" />
 	<engine name="android" spec="~5.1.1" />
-	<preference name="phonegap-version" value="cli-6.5.0" />
+	<preference name="phonegap-version" value="cli-8.1.1" />
 </widget>
